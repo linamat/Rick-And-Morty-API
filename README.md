@@ -12,10 +12,10 @@ A Flutter app powered by the [Rick and Morty API](https://rickandmortyapi.com/) 
 
 ## 📷 Screenshots
 
-<img src="https://github.com/user-attachments/assets/b6e83f76-6b8a-4ca1-9f7a-86b1d9cc9342" style="height: 400px;" />
-<img src="https://github.com/user-attachments/assets/59cdfcc6-e01d-4869-95a0-eaae15faecf2" style="height: 400px;" />
-<img src="https://github.com/user-attachments/assets/a8866b70-7e37-41c7-ae25-3832571f8386" style="height: 400px;" />
-<img src="https://github.com/user-attachments/assets/5ea81c22-d075-430f-b6a9-ce1c574bed0a" style="height: 400px;" />
+<img src="https://github.com/user-attachments/assets/4f0be7a5-15fc-493b-9bae-f50a6e432e7a" height="300px" />
+<img src="https://github.com/user-attachments/assets/de863ef1-b846-4dd8-8e12-0686984c0e6a" height="300px" />
+<img src="https://github.com/user-attachments/assets/0ceaf28c-cf9b-4f39-833f-17fbddc95f6e" height="300px" />
+<img src="https://github.com/user-attachments/assets/da5d6b94-fcc9-4f97-b754-dbf5db1ea3b2" height="300px" />
 
 ## 🛠 Tech Stack
 
@@ -51,6 +51,7 @@ A Flutter app powered by the [Rick and Morty API](https://rickandmortyapi.com/) 
     fvm flutter run
 
     ```
+
 ## 🤝 Contributing
 
 Contributions are welcome!  
